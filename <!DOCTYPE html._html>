@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Green Website</title>
+
+    <style>
+        body {
+            background-color: green;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+
+        h1 {
+            color: lightgreen;
+        }
+
+        button {
+            background-color: darkgreen;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>RHYTHM N POETRY</h1>
+    <p>MUSIC is everything you need it to be</p>
+
+    <button>Click Me</button>
+
+    <style>
+body {
+    background-image: url("images - Copy.jpg"), url("images (1).jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+</style>
+
+</body>
+</html>
+
